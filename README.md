@@ -1,1 +1,1 @@
-# odin-recipes
+HTML recipe website consisting of three recipe pages and an index page. 
